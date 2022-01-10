@@ -4,7 +4,7 @@ from PIL import Image
 import pytesseract
 import random
 import streamlit as st
-pytesseract.pytesseract.tesseract_cmd = "/opt/homebrew/Cellar/tesseract/4.1.3/bin/tesseract"
+#pytesseract.pytesseract.tesseract_cmd = "/opt/homebrew/Cellar/tesseract/4.1.3/bin/tesseract"
 
 
 
